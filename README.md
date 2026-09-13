@@ -1,8 +1,5 @@
 # CMP2204
 Introduction to Computer Networks -- Term Project, Spring 2024
-Demir Eroglu 2200678
-Emir Ismail Genc 2202780
-Kuzey Berk Yilmaz 2200014
 
 # P2P Chat Application
 This is a simple P2P chat application written in Python. It allows users to chat with each other in a secure or unsecure way. 
